@@ -7,9 +7,7 @@ const app = express();
 const port = process.env.PORT;
 
 app.use(express.json());
-app.use(cors({
-  origin: "chrome-extension://akobanfcnhoanlfcbiopenpjmclopmla",
-}));
+app.use(cors());
 
 app.get("/", async (req, res) => {
   return res.status(200).json({
