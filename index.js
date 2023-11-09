@@ -1,11 +1,13 @@
 import express from "express";
 import fetch from "node-fetch";
 import "dotenv/config";
+import cors from "cors";
 
 const app = express();
 const port = process.env.PORT;
 
 app.use(express.json());
+app.use(cors)
 
 app.get("/", async (req, res) => {
   return res.status(200).json({
