@@ -24,12 +24,28 @@ router.get("/:region/:citycode", async (req, res) => {
 			rawdata[0]["observation"]["temperature"]["imperialUnrounded"]
 		);
 		let humidity = parseFloat(rawdata[0]["observation"]["humidity"]);
+		let icon = rawdata[0]["observation"]["iconCode"];
+		let iconURL = `https://meteo.gc.ca/weathericons/${icon}.gif`
+		let timeStamp = Date(rawdata[0]["observation"]["timeStamp"]);
+
+		let WindSpeedMetric = parseFloat(
+			rawdata[0]["observation"]["windSpeed"]["metric"]
+		);
+		let WindSpeedImperial = parseFloat(
+			rawdata[0]["observation"]["windSpeed"]["imperial"]
+		);
+		let WindDirection = rawdata[0]["observation"]["windDirection"];
 
 		const data = {
 			"City": City,
 			"TempMetric": TempMetric,
 			"TempImperial": TempImperial,
-			"humidity": humidity
+			"humidity": humidity,
+			"iconURL": iconURL,
+			"timeStamp": timeStamp,
+			"WindSpeedMetric": WindSpeedMetric,
+			"WindSpeedImperial": WindSpeedImperial,
+			"WindDirection": WindDirection
 		};
 
 		res.json(data);
