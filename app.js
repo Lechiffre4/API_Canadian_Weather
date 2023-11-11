@@ -26,6 +26,12 @@ app.use('/api/raw_data', raw_data);
 const currentweather = require('./routes/currentweather');
 app.use('/api/currentweather', currentweather);
 
+const cities = require('./routes/cities');
+app.use('/api/cities', cities);
+
+const city = require('./routes/city');
+app.use('/api/city', city);
+
 
 
 /*  Error 404 */
