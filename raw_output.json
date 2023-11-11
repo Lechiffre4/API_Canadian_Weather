@@ -1,0 +1,1763 @@
+[
+    {
+        "cgndb": "EHHUN",
+        "displayName": "Montr\u00e9al",
+        "zonePoly": "",
+        "lastUpdated": 1699678911,
+        "alert": {},
+        "observation": {
+            "observedAt": "A\u00e9roport int. de Montr\u00e9al-Trudeau",
+            "provinceCode": "QC",
+            "climateId": "7025251",
+            "tcid": "yul",
+            "timeStamp": "2023-11-11T05:00:00.000Z",
+            "timeStampText": "0h00 HNE le samedi 11 novembre 2023",
+            "iconCode": "33",
+            "condition": "G\u00e9n\u00e9ralement nuageux",
+            "temperature": {
+                "imperial": "35",
+                "imperialUnrounded": "34.9",
+                "metric": "2",
+                "metricUnrounded": "1.6"
+            },
+            "dewpoint": {
+                "imperial": "23",
+                "imperialUnrounded": "22.8",
+                "metric": "-5",
+                "metricUnrounded": "-5.1"
+            },
+            "feelsLike": {
+                "imperial": "",
+                "metric": ""
+            },
+            "pressure": {
+                "imperial": "30.2",
+                "metric": "102.1",
+                "changeImperial": "0.08",
+                "changeMetric": "0.28"
+            },
+            "tendency": "rising",
+            "visibility": {
+                "imperial": "15",
+                "metric": "24"
+            },
+            "visUnround": 24.10000000000000142108547152020037174224853515625,
+            "humidity": "61",
+            "windSpeed": {
+                "imperial": "9",
+                "metric": "15"
+            },
+            "windGust": {
+                "imperial": "",
+                "metric": ""
+            },
+            "windDirection": "ONO",
+            "windBearing": "300.0"
+        },
+        "hourlyFcst": {
+            "hourlyIssuedTimeShrt": "15h45 HNE",
+            "hourly": [
+                {
+                    "date": "11 novembre 2023",
+                    "periodID": 0,
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "windDir": "O",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "temperature": {
+                        "metric": "0",
+                        "imperial": "32"
+                    },
+                    "iconCode": "31",
+                    "time": "1h00",
+                    "windSpeed": {
+                        "metric": "15",
+                        "imperial": "9"
+                    },
+                    "epochTime": 1699682400,
+                    "dateShrt": "10 nov"
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "periodID": 1,
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "0",
+                        "imperial": "32"
+                    },
+                    "iconCode": "31",
+                    "time": "2h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "15",
+                        "imperial": "9"
+                    },
+                    "epochTime": 1699686000
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "-5",
+                        "imperial": "23"
+                    },
+                    "periodID": 2,
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "-1",
+                        "imperial": "30"
+                    },
+                    "iconCode": "31",
+                    "time": "3h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "15",
+                        "imperial": "9"
+                    },
+                    "epochTime": 1699689600
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "-6",
+                        "imperial": "21"
+                    },
+                    "periodID": 3,
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "-1",
+                        "imperial": "30"
+                    },
+                    "iconCode": "31",
+                    "time": "4h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "15",
+                        "imperial": "9"
+                    },
+                    "epochTime": 1699693200
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "-6",
+                        "imperial": "21"
+                    },
+                    "periodID": 4,
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "-1",
+                        "imperial": "30"
+                    },
+                    "iconCode": "31",
+                    "time": "5h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "15",
+                        "imperial": "9"
+                    },
+                    "epochTime": 1699696800
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "-7",
+                        "imperial": "19"
+                    },
+                    "periodID": 5,
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "-2",
+                        "imperial": "28"
+                    },
+                    "iconCode": "31",
+                    "time": "6h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699700400
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "-8",
+                        "imperial": "18"
+                    },
+                    "periodID": 6,
+                    "condition": "G\u00e9n\u00e9ralement ensoleill\u00e9",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "-2",
+                        "imperial": "28"
+                    },
+                    "iconCode": "01",
+                    "time": "7h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699704000
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "-7",
+                        "imperial": "19"
+                    },
+                    "periodID": 7,
+                    "condition": "G\u00e9n\u00e9ralement ensoleill\u00e9",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "-1",
+                        "imperial": "30"
+                    },
+                    "iconCode": "01",
+                    "time": "8h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699707600
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "periodID": 8,
+                    "condition": "G\u00e9n\u00e9ralement ensoleill\u00e9",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "0",
+                        "imperial": "32"
+                    },
+                    "iconCode": "01",
+                    "time": "9h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699711200
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "periodID": 9,
+                    "condition": "G\u00e9n\u00e9ralement ensoleill\u00e9",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "1",
+                        "imperial": "34"
+                    },
+                    "iconCode": "01",
+                    "time": "10h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699714800
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "periodID": 10,
+                    "condition": "G\u00e9n\u00e9ralement ensoleill\u00e9",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "2",
+                        "imperial": "36"
+                    },
+                    "iconCode": "01",
+                    "time": "11h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699718400
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "periodID": 11,
+                    "condition": "Alternance de soleil et de nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "2",
+                        "imperial": "36"
+                    },
+                    "iconCode": "02",
+                    "time": "12h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699722000
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "periodID": 12,
+                    "condition": "Alternance de soleil et de nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "3",
+                        "imperial": "37"
+                    },
+                    "iconCode": "02",
+                    "time": "13h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699725600
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "periodID": 13,
+                    "condition": "Alternance de soleil et de nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "3",
+                        "imperial": "37"
+                    },
+                    "iconCode": "02",
+                    "time": "14h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699729200
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "periodID": 14,
+                    "condition": "Alternance de soleil et de nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "3",
+                        "imperial": "37"
+                    },
+                    "iconCode": "02",
+                    "time": "15h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699732800
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "periodID": 15,
+                    "condition": "Partiellement nuageux",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "3",
+                        "imperial": "37"
+                    },
+                    "iconCode": "32",
+                    "time": "16h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699736400
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "periodID": 16,
+                    "condition": "Partiellement nuageux",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "2",
+                        "imperial": "36"
+                    },
+                    "iconCode": "32",
+                    "time": "17h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699740000
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "periodID": 17,
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "1",
+                        "imperial": "34"
+                    },
+                    "iconCode": "31",
+                    "time": "18h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699743600
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "periodID": 18,
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "0",
+                        "imperial": "32"
+                    },
+                    "iconCode": "31",
+                    "time": "19h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699747200
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "-6",
+                        "imperial": "21"
+                    },
+                    "periodID": 19,
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "-1",
+                        "imperial": "30"
+                    },
+                    "iconCode": "31",
+                    "time": "20h00",
+                    "windDir": "O",
+                    "windSpeed": {
+                        "metric": "20",
+                        "imperial": "12"
+                    },
+                    "epochTime": 1699750800
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "-5",
+                        "imperial": "23"
+                    },
+                    "periodID": 20,
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "-1",
+                        "imperial": "30"
+                    },
+                    "iconCode": "31",
+                    "time": "21h00",
+                    "windDir": "NO",
+                    "windSpeed": {
+                        "metric": "10",
+                        "imperial": "6"
+                    },
+                    "epochTime": 1699754400
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "-6",
+                        "imperial": "21"
+                    },
+                    "periodID": 21,
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "-2",
+                        "imperial": "28"
+                    },
+                    "iconCode": "31",
+                    "time": "22h00",
+                    "windDir": "NO",
+                    "windSpeed": {
+                        "metric": "10",
+                        "imperial": "6"
+                    },
+                    "epochTime": 1699758000
+                },
+                {
+                    "date": "11 novembre 2023",
+                    "feelsLike": {
+                        "metric": "-6",
+                        "imperial": "21"
+                    },
+                    "periodID": 22,
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "temperature": {
+                        "metric": "-2",
+                        "imperial": "28"
+                    },
+                    "iconCode": "31",
+                    "time": "23h00",
+                    "windDir": "NO",
+                    "windSpeed": {
+                        "metric": "10",
+                        "imperial": "6"
+                    },
+                    "epochTime": 1699761600
+                },
+                {
+                    "date": "12 novembre 2023",
+                    "periodID": 23,
+                    "windGust": {
+                        "metric": "",
+                        "imperial": ""
+                    },
+                    "windDir": "NO",
+                    "feelsLike": {
+                        "metric": "-6",
+                        "imperial": "21"
+                    },
+                    "condition": "Quelques nuages",
+                    "precip": "0",
+                    "temperature": {
+                        "metric": "-2",
+                        "imperial": "28"
+                    },
+                    "iconCode": "31",
+                    "time": "0h00",
+                    "windSpeed": {
+                        "metric": "10",
+                        "imperial": "6"
+                    },
+                    "epochTime": 1699765200,
+                    "dateShrt": "11 nov"
+                }
+            ]
+        },
+        "dailyFcst": {
+            "dailyIssuedTimeShrt": "15h45 HNE",
+            "regionalNormals": {
+                "metric": {
+                    "highTemp": 6,
+                    "lowTemp": -1,
+                    "text": "Minimum moins 1. Maximum 6."
+                },
+                "imperial": {
+                    "highTemp": 43,
+                    "lowTemp": 30,
+                    "text": "Minimum moins 1. Maximum 6."
+                }
+            },
+            "daily": [
+                {
+                    "date": "ven, 10 nov",
+                    "summary": "Possibilit\u00e9 d'averses",
+                    "periodID": 2,
+                    "periodLabel": "Ce soir et cette nuit",
+                    "windChill": {
+                        "frostbite": "",
+                        "calculated": [
+                            {
+                                "unitType": "metric",
+                                "index": "1",
+                                "class": "nuit",
+                                "value": "-7"
+                            }
+                        ],
+                        "textSummary": "Refroidissement \u00e9olien moins 7 au cours de la nuit."
+                    },
+                    "sun": [],
+                    "temperatureText": "Minimum moins 2.",
+                    "humidex": [],
+                    "precip": "40",
+                    "frost": {
+                        "textSummary": ""
+                    },
+                    "titleText": "Ce soir et cette nuit: Possibilit\u00e9 d'averses. Minimum moins 2. POP 40%",
+                    "temperature": {
+                        "metric": "-2",
+                        "imperial": "28",
+                        "periodLow": -2
+                    },
+                    "iconCode": "36",
+                    "text": "G\u00e9n\u00e9ralement nuageux avec 40 pour cent de probabilit\u00e9 d'averses t\u00f4t ce soir. D\u00e9gagement tard ce soir. Vents d'ouest de 20 km\/h avec rafales \u00e0 40 devenant l\u00e9gers ce soir. Minimum moins 2. Refroidissement \u00e9olien moins 7 au cours de la nuit."
+                },
+                {
+                    "date": "sam, 11 nov",
+                    "summary": "Alternance de soleil et de nuages",
+                    "periodID": 3,
+                    "periodLabel": "sam, 11 nov",
+                    "windChill": {
+                        "frostbite": "",
+                        "calculated": [
+                            {
+                                "unitType": "metric",
+                                "index": "1",
+                                "class": "matin",
+                                "value": "-8"
+                            }
+                        ],
+                        "textSummary": "Refroidissement \u00e9olien moins 8 le matin."
+                    },
+                    "sun": {
+                        "value": "5",
+                        "units": "hours"
+                    },
+                    "temperatureText": "Maximum plus 3.",
+                    "humidex": [],
+                    "precip": "",
+                    "frost": {
+                        "textSummary": ""
+                    },
+                    "titleText": "sam, 11 nov: Alternance de soleil et de nuages. Maximum plus 3.",
+                    "temperature": {
+                        "periodHigh": 3,
+                        "metric": "3",
+                        "imperial": "37"
+                    },
+                    "iconCode": "02",
+                    "text": "Alternance de soleil et de nuages. Vents d'ouest de 20 km\/h. Maximum plus 3. Refroidissement \u00e9olien moins 8 le matin. Indice UV de 1 ou bas."
+                },
+                {
+                    "date": "sam, 11 nov",
+                    "summary": "Quelques nuages",
+                    "periodID": 4,
+                    "periodLabel": "Nuit",
+                    "windChill": {
+                        "frostbite": "",
+                        "calculated": [
+                            {
+                                "unitType": "metric",
+                                "index": "1",
+                                "class": "nuit",
+                                "value": "-8"
+                            }
+                        ],
+                        "textSummary": "Refroidissement \u00e9olien moins 8 au cours de la nuit."
+                    },
+                    "sun": [],
+                    "temperatureText": "Minimum moins 4.",
+                    "humidex": [],
+                    "precip": "",
+                    "frost": {
+                        "textSummary": ""
+                    },
+                    "titleText": "Nuit: Quelques nuages. Minimum moins 4.",
+                    "temperature": {
+                        "metric": "-4",
+                        "imperial": "25",
+                        "periodLow": -4
+                    },
+                    "iconCode": "31",
+                    "text": "Quelques nuages. Vents d'ouest de 20 km\/h devenant l\u00e9gers en soir\u00e9e. Minimum moins 4. Refroidissement \u00e9olien moins 8 au cours de la nuit."
+                },
+                {
+                    "date": "dim, 12 nov",
+                    "summary": "Ensoleill\u00e9",
+                    "periodID": 5,
+                    "periodLabel": "dim, 12 nov",
+                    "windChill": {
+                        "calculated": [],
+                        "textSummary": ""
+                    },
+                    "sun": {
+                        "value": "9",
+                        "units": "hours"
+                    },
+                    "temperatureText": "Maximum plus 2.",
+                    "humidex": {
+                        "textSummary": ""
+                    },
+                    "precip": "",
+                    "titleText": "dim, 12 nov: Ensoleill\u00e9. Maximum plus 2.",
+                    "temperature": {
+                        "periodHigh": 2,
+                        "metric": "2",
+                        "imperial": "36"
+                    },
+                    "iconCode": "00",
+                    "text": "Ensoleill\u00e9. Maximum plus 2."
+                },
+                {
+                    "date": "dim, 12 nov",
+                    "summary": "D\u00e9gag\u00e9",
+                    "periodID": 6,
+                    "periodLabel": "Nuit",
+                    "windChill": {
+                        "calculated": [],
+                        "textSummary": ""
+                    },
+                    "sun": {
+                        "value": "0",
+                        "units": "hours"
+                    },
+                    "temperatureText": "Minimum moins 5.",
+                    "humidex": {
+                        "textSummary": ""
+                    },
+                    "precip": "",
+                    "titleText": "Nuit: D\u00e9gag\u00e9. Minimum moins 5.",
+                    "temperature": {
+                        "metric": "-5",
+                        "imperial": "23",
+                        "periodLow": -5
+                    },
+                    "iconCode": "30",
+                    "text": "D\u00e9gag\u00e9. Minimum moins 5."
+                },
+                {
+                    "date": "lun, 13 nov",
+                    "summary": "Neige",
+                    "periodID": 7,
+                    "periodLabel": "lun, 13 nov",
+                    "windChill": {
+                        "calculated": [],
+                        "textSummary": ""
+                    },
+                    "sun": {
+                        "value": "1",
+                        "units": "hours"
+                    },
+                    "temperatureText": "Maximum plus 1.",
+                    "humidex": {
+                        "textSummary": ""
+                    },
+                    "precip": "",
+                    "titleText": "lun, 13 nov: Neige. Maximum plus 1.",
+                    "temperature": {
+                        "periodHigh": 1,
+                        "metric": "1",
+                        "imperial": "34"
+                    },
+                    "iconCode": "17",
+                    "text": "Neige. Maximum plus 1."
+                },
+                {
+                    "date": "lun, 13 nov",
+                    "summary": "Averses de pluie ou de neige",
+                    "periodID": 8,
+                    "periodLabel": "Nuit",
+                    "windChill": {
+                        "calculated": [],
+                        "textSummary": ""
+                    },
+                    "sun": {
+                        "value": "0",
+                        "units": "hours"
+                    },
+                    "temperatureText": "Minimum moins 1.",
+                    "humidex": {
+                        "textSummary": ""
+                    },
+                    "precip": "",
+                    "titleText": "Nuit: Averses de pluie ou de neige. Minimum moins 1.",
+                    "temperature": {
+                        "metric": "-1",
+                        "imperial": "30",
+                        "periodLow": -1
+                    },
+                    "iconCode": "15",
+                    "text": "Averses de pluie ou de neige. Minimum moins 1."
+                },
+                {
+                    "date": "mar, 14 nov",
+                    "summary": "Nuageux",
+                    "periodID": 9,
+                    "periodLabel": "mar, 14 nov",
+                    "windChill": {
+                        "calculated": [],
+                        "textSummary": ""
+                    },
+                    "sun": {
+                        "value": "1",
+                        "units": "hours"
+                    },
+                    "temperatureText": "Maximum 6.",
+                    "humidex": {
+                        "textSummary": ""
+                    },
+                    "precip": "",
+                    "titleText": "mar, 14 nov: Nuageux. Maximum 6.",
+                    "temperature": {
+                        "periodHigh": 6,
+                        "metric": "6",
+                        "imperial": "43"
+                    },
+                    "iconCode": "10",
+                    "text": "Nuageux. Maximum 6."
+                },
+                {
+                    "date": "mar, 14 nov",
+                    "summary": "Passages nuageux",
+                    "periodID": 10,
+                    "periodLabel": "Nuit",
+                    "windChill": {
+                        "calculated": [],
+                        "textSummary": ""
+                    },
+                    "sun": {
+                        "value": "0",
+                        "units": "hours"
+                    },
+                    "temperatureText": "Minimum plus 1.",
+                    "humidex": {
+                        "textSummary": ""
+                    },
+                    "precip": "",
+                    "titleText": "Nuit: Passages nuageux. Minimum plus 1.",
+                    "temperature": {
+                        "metric": "1",
+                        "imperial": "34",
+                        "periodLow": 1
+                    },
+                    "iconCode": "32",
+                    "text": "Passages nuageux. Minimum plus 1."
+                },
+                {
+                    "date": "mer, 15 nov",
+                    "summary": "Alternance de soleil et de nuages",
+                    "periodID": 11,
+                    "periodLabel": "mer, 15 nov",
+                    "windChill": {
+                        "calculated": [],
+                        "textSummary": ""
+                    },
+                    "sun": {
+                        "value": "5",
+                        "units": "hours"
+                    },
+                    "temperatureText": "Maximum 7.",
+                    "humidex": {
+                        "textSummary": ""
+                    },
+                    "precip": "",
+                    "titleText": "mer, 15 nov: Alternance de soleil et de nuages. Maximum 7.",
+                    "temperature": {
+                        "periodHigh": 7,
+                        "metric": "7",
+                        "imperial": "45"
+                    },
+                    "iconCode": "02",
+                    "text": "Alternance de soleil et de nuages. Maximum 7."
+                },
+                {
+                    "date": "mer, 15 nov",
+                    "summary": "Passages nuageux",
+                    "periodID": 12,
+                    "periodLabel": "Nuit",
+                    "windChill": {
+                        "calculated": [],
+                        "textSummary": ""
+                    },
+                    "sun": {
+                        "value": "0",
+                        "units": "hours"
+                    },
+                    "temperatureText": "Minimum plus 3.",
+                    "humidex": {
+                        "textSummary": ""
+                    },
+                    "precip": "",
+                    "titleText": "Nuit: Passages nuageux. Minimum plus 3.",
+                    "temperature": {
+                        "metric": "3",
+                        "imperial": "37",
+                        "periodLow": 3
+                    },
+                    "iconCode": "32",
+                    "text": "Passages nuageux. Minimum plus 3."
+                },
+                {
+                    "date": "jeu, 16 nov",
+                    "summary": "Alternance de soleil et de nuages",
+                    "periodID": 13,
+                    "periodLabel": "jeu, 16 nov",
+                    "windChill": {
+                        "calculated": [],
+                        "textSummary": ""
+                    },
+                    "sun": {
+                        "value": "5",
+                        "units": "hours"
+                    },
+                    "temperatureText": "Maximum 8.",
+                    "humidex": {
+                        "textSummary": ""
+                    },
+                    "precip": "",
+                    "titleText": "jeu, 16 nov: Alternance de soleil et de nuages. Maximum 8.",
+                    "temperature": {
+                        "periodHigh": 8,
+                        "metric": "8",
+                        "imperial": "46"
+                    },
+                    "iconCode": "02",
+                    "text": "Alternance de soleil et de nuages. Maximum 8."
+                }
+            ],
+            "dailyIssuedTime": "15h45 HNE le vendredi 10 novembre 2023",
+            "dailyIssuedTimeEpoch": "1699649100"
+        },
+        "aqhi": {
+            "url": "https:\/\/meteo.gc.ca\/airquality\/pages\/qcaq-001_f.html"
+        },
+        "riseSet": {
+            "set": {
+                "epochTimeRounded": "1699736400",
+                "time": "16h28"
+            },
+            "timeZone": "HNE",
+            "rise": {
+                "epochTimeRounded": "1699700400",
+                "time": "6h47"
+            }
+        },
+        "riseSetNextDay": {
+            "set": {
+                "epochTimeRounded": "1699822800",
+                "time": "16h27"
+            },
+            "timeZone": "HNE",
+            "rise": {
+                "epochTimeRounded": "1699786800",
+                "time": "6h49"
+            }
+        },
+        "metNotes": [],
+        "aqhiFcst": {
+            "epochTime": 1699653600,
+            "daily": [
+                {
+                    "periodName": "Vendredi soir et nuit",
+                    "aqhiVal": 2,
+                    "periodID": 2
+                },
+                {
+                    "periodName": "Samedi",
+                    "aqhiVal": 2,
+                    "periodID": 3
+                },
+                {
+                    "periodName": "Samedi soir et nuit",
+                    "aqhiVal": 2,
+                    "periodID": 4
+                },
+                {
+                    "periodName": "Dimanche",
+                    "aqhiVal": 2,
+                    "periodID": 5
+                }
+            ]
+        },
+        "aqhiInfo": {
+            "next24Hr": "https:\/\/meteo.gc.ca\/airquality\/pages\/nextHourlies\/qcaq-001_f.html",
+            "partnerText": "La cote air sant\u00e9 est une initiative d'Environnement Canada et de Sant\u00e9 Canada. Les pr\u00e9visions de la CAS au Qu\u00e9bec sont rendues possibles, entre autres, gr\u00e2ce aux donn\u00e9es provenant des r\u00e9seaux de surveillance de la qualit\u00e9 de l'air du minist\u00e8re de l'Environnement et de la Lutte contre les changements climatiques du Qu\u00e9bec et de la Ville de Montr\u00e9al."
+        },
+        "cityCode": "QC-147",
+        "province": "QC",
+        "lat": "45.528995358000",
+        "lon": "-73.562068285000",
+        "tcId": "YUL",
+        "climateId": "7025251",
+        "tc2Id": "YHU",
+        "climate2Id": "7027329",
+        "wxoZoneCode": "qcrm2",
+        "timezone": "EST5EDT",
+        "climatIDDaily": "51157",
+        "climatIDHrly": "",
+        "radarView": "local",
+        "yesterdayObs": {
+            "station": {
+                "observedAt": "A\u00e9roport int. de Montr\u00e9al-Trudeau",
+                "climateId": "7025251",
+                "tcId": "YUL"
+            },
+            "datestamp": {
+                "timeStamp": "2023-11-10T06:00:00Z",
+                "timeStampText": "1h00 HNE le vendredi 10 novembre 2023"
+            },
+            "highTemperature": {
+                "imperial": 37.60000000000000142108547152020037174224853515625,
+                "metric": 3.100000000000000088817841970012523233890533447265625
+            },
+            "lowTemperature": {
+                "imperial": 28.800000000000000710542735760100185871124267578125,
+                "metric": -1.8000000000000000444089209850062616169452667236328125
+            },
+            "precip": {
+                "imperial": 0.2800000000000000266453525910037569701671600341796875,
+                "metric": 7
+            },
+            "rainfall": {
+                "imperial": 0,
+                "metric": 0
+            },
+            "snowfall": {
+                "imperial": 2.7599999999999997868371792719699442386627197265625,
+                "metric": 7
+            },
+            "peakWind": {
+                "imperial": 23,
+                "metric": 37,
+                "nautical": 20,
+                "directionCardinal": "SO"
+            }
+        },
+        "records": [
+            {
+                "station": {
+                    "observedAt": "A\u00e9roport int. de Montr\u00e9al-Trudeau",
+                    "climateId": "7025250",
+                    "tcId": "YUL"
+                },
+                "recordValue": {
+                    "pop": 49,
+                    "date": "2023-11-06",
+                    "avgMaxTemp": {
+                        "metric": 7.79999999999999982236431605997495353221893310546875,
+                        "imperial": 46
+                    },
+                    "avgMinTemp": {
+                        "metric": 0,
+                        "imperial": 32
+                    },
+                    "avgMeanTemp": {
+                        "metric": 3.899999999999999911182158029987476766109466552734375,
+                        "imperial": 39
+                    },
+                    "extremeMaxTemp": {
+                        "metric": 21.699999999999999289457264239899814128875732421875,
+                        "imperial": 71.099999999999994315658113919198513031005859375,
+                        "year": "1948",
+                        "interval": "1941-2012"
+                    },
+                    "extremeMinTemp": {
+                        "metric": -8.9000000000000003552713678800500929355621337890625,
+                        "imperial": 16,
+                        "year": "1951",
+                        "interval": "1941-2012"
+                    },
+                    "extremePrecip": {
+                        "metric": 20.10000000000000142108547152020037174224853515625,
+                        "imperial": 0.79000000000000003552713678800500929355621337890625,
+                        "year": "1948",
+                        "interval": "1941-2012"
+                    },
+                    "extremeRainfall": {
+                        "metric": 20.10000000000000142108547152020037174224853515625,
+                        "imperial": 0.79000000000000003552713678800500929355621337890625,
+                        "year": "1948",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowfall": {
+                        "metric": 7.5999999999999996447286321199499070644378662109375,
+                        "imperial": 2.9900000000000002131628207280300557613372802734375,
+                        "year": "2002",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowOnGround": {
+                        "metric": 6,
+                        "imperial": 2.359999999999999875655021241982467472553253173828125,
+                        "year": "2002",
+                        "interval": "1955-2012"
+                    }
+                }
+            },
+            {
+                "station": {
+                    "observedAt": "A\u00e9roport int. de Montr\u00e9al-Trudeau",
+                    "climateId": "7025250",
+                    "tcId": "YUL"
+                },
+                "recordValue": {
+                    "pop": 49,
+                    "date": "2023-11-07",
+                    "avgMaxTemp": {
+                        "metric": 7.5,
+                        "imperial": 45.5
+                    },
+                    "avgMinTemp": {
+                        "metric": -0.1000000000000000055511151231257827021181583404541015625,
+                        "imperial": 31.800000000000000710542735760100185871124267578125
+                    },
+                    "avgMeanTemp": {
+                        "metric": 3.70000000000000017763568394002504646778106689453125,
+                        "imperial": 38.7000000000000028421709430404007434844970703125
+                    },
+                    "extremeMaxTemp": {
+                        "metric": 20,
+                        "imperial": 68,
+                        "year": "1975",
+                        "interval": "1941-2012"
+                    },
+                    "extremeMinTemp": {
+                        "metric": -8.5,
+                        "imperial": 16.699999999999999289457264239899814128875732421875,
+                        "year": "2002",
+                        "interval": "1941-2012"
+                    },
+                    "extremePrecip": {
+                        "metric": 28.699999999999999289457264239899814128875732421875,
+                        "imperial": 1.12999999999999989341858963598497211933135986328125,
+                        "year": "1963",
+                        "interval": "1941-2012"
+                    },
+                    "extremeRainfall": {
+                        "metric": 28.699999999999999289457264239899814128875732421875,
+                        "imperial": 1.12999999999999989341858963598497211933135986328125,
+                        "year": "1963",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowfall": {
+                        "metric": 8.4000000000000003552713678800500929355621337890625,
+                        "imperial": 3.310000000000000053290705182007513940334320068359375,
+                        "year": "1981",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowOnGround": {
+                        "metric": 3,
+                        "imperial": 1.1799999999999999378275106209912337362766265869140625,
+                        "year": "1962",
+                        "interval": "1955-2012"
+                    }
+                }
+            },
+            {
+                "station": {
+                    "observedAt": "A\u00e9roport int. de Montr\u00e9al-Trudeau",
+                    "climateId": "7025250",
+                    "tcId": "YUL"
+                },
+                "recordValue": {
+                    "pop": 49,
+                    "date": "2023-11-08",
+                    "avgMaxTemp": {
+                        "metric": 7.29999999999999982236431605997495353221893310546875,
+                        "imperial": 45.10000000000000142108547152020037174224853515625
+                    },
+                    "avgMinTemp": {
+                        "metric": -0.299999999999999988897769753748434595763683319091796875,
+                        "imperial": 31.5
+                    },
+                    "avgMeanTemp": {
+                        "metric": 3.5,
+                        "imperial": 38.2999999999999971578290569595992565155029296875
+                    },
+                    "extremeMaxTemp": {
+                        "metric": 20,
+                        "imperial": 68,
+                        "year": "1975",
+                        "interval": "1941-2012"
+                    },
+                    "extremeMinTemp": {
+                        "metric": -9.4000000000000003552713678800500929355621337890625,
+                        "imperial": 15.0999999999999996447286321199499070644378662109375,
+                        "year": "1971",
+                        "interval": "1941-2012"
+                    },
+                    "extremePrecip": {
+                        "metric": 93.5,
+                        "imperial": 3.680000000000000159872115546022541821002960205078125,
+                        "year": "1996",
+                        "interval": "1941-2012"
+                    },
+                    "extremeRainfall": {
+                        "metric": 93.5,
+                        "imperial": 3.680000000000000159872115546022541821002960205078125,
+                        "year": "1996",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowfall": {
+                        "metric": 4.79999999999999982236431605997495353221893310546875,
+                        "imperial": 1.8899999999999999023003738329862244427204132080078125,
+                        "year": "1968",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowOnGround": {
+                        "metric": 3,
+                        "imperial": 1.1799999999999999378275106209912337362766265869140625,
+                        "year": "1962",
+                        "interval": "1955-2012"
+                    }
+                }
+            },
+            {
+                "station": {
+                    "observedAt": "A\u00e9roport int. de Montr\u00e9al-Trudeau",
+                    "climateId": "7025250",
+                    "tcId": "YUL"
+                },
+                "recordValue": {
+                    "pop": 49,
+                    "date": "2023-11-09",
+                    "avgMaxTemp": {
+                        "metric": 7,
+                        "imperial": 44.60000000000000142108547152020037174224853515625
+                    },
+                    "avgMinTemp": {
+                        "metric": -0.5,
+                        "imperial": 31.10000000000000142108547152020037174224853515625
+                    },
+                    "avgMeanTemp": {
+                        "metric": 3.29999999999999982236431605997495353221893310546875,
+                        "imperial": 37.89999999999999857891452847979962825775146484375
+                    },
+                    "extremeMaxTemp": {
+                        "metric": 19.39999999999999857891452847979962825775146484375,
+                        "imperial": 66.900000000000005684341886080801486968994140625,
+                        "year": "1945",
+                        "interval": "1941-2012"
+                    },
+                    "extremeMinTemp": {
+                        "metric": -10,
+                        "imperial": 14,
+                        "year": "1976",
+                        "interval": "1941-2012"
+                    },
+                    "extremePrecip": {
+                        "metric": 40.5,
+                        "imperial": 1.5900000000000000799360577730112709105014801025390625,
+                        "year": "1996",
+                        "interval": "1941-2012"
+                    },
+                    "extremeRainfall": {
+                        "metric": 40.5,
+                        "imperial": 1.5900000000000000799360577730112709105014801025390625,
+                        "year": "1996",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowfall": {
+                        "metric": 1.8000000000000000444089209850062616169452667236328125,
+                        "imperial": 0.70999999999999996447286321199499070644378662109375,
+                        "year": "1952",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowOnGround": {
+                        "metric": 1,
+                        "imperial": 0.39000000000000001332267629550187848508358001708984375,
+                        "year": "1980",
+                        "interval": "1955-2012"
+                    }
+                }
+            },
+            {
+                "station": {
+                    "observedAt": "A\u00e9roport int. de Montr\u00e9al-Trudeau",
+                    "climateId": "7025250",
+                    "tcId": "YUL"
+                },
+                "recordValue": {
+                    "pop": 49,
+                    "date": "2023-11-10",
+                    "avgMaxTemp": {
+                        "metric": 6.79999999999999982236431605997495353221893310546875,
+                        "imperial": 44.2000000000000028421709430404007434844970703125
+                    },
+                    "avgMinTemp": {
+                        "metric": -0.6999999999999999555910790149937383830547332763671875,
+                        "imperial": 30.699999999999999289457264239899814128875732421875
+                    },
+                    "avgMeanTemp": {
+                        "metric": 3.100000000000000088817841970012523233890533447265625,
+                        "imperial": 37.60000000000000142108547152020037174224853515625
+                    },
+                    "extremeMaxTemp": {
+                        "metric": 18.300000000000000710542735760100185871124267578125,
+                        "imperial": 64.900000000000005684341886080801486968994140625,
+                        "year": "1948",
+                        "interval": "1941-2012"
+                    },
+                    "extremeMinTemp": {
+                        "metric": -7.9000000000000003552713678800500929355621337890625,
+                        "imperial": 17.800000000000000710542735760100185871124267578125,
+                        "year": "1995",
+                        "interval": "1941-2012"
+                    },
+                    "extremePrecip": {
+                        "metric": 20.300000000000000710542735760100185871124267578125,
+                        "imperial": 0.8000000000000000444089209850062616169452667236328125,
+                        "year": "1966",
+                        "interval": "1941-2012"
+                    },
+                    "extremeRainfall": {
+                        "metric": 20.300000000000000710542735760100185871124267578125,
+                        "imperial": 0.8000000000000000444089209850062616169452667236328125,
+                        "year": "1966",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowfall": {
+                        "metric": 10.199999999999999289457264239899814128875732421875,
+                        "imperial": 4.019999999999999573674358543939888477325439453125,
+                        "year": "1990",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowOnGround": {
+                        "metric": 3,
+                        "imperial": 1.1799999999999999378275106209912337362766265869140625,
+                        "year": "1976",
+                        "interval": "1955-2012"
+                    }
+                }
+            },
+            {
+                "station": {
+                    "observedAt": "A\u00e9roport int. de Montr\u00e9al-Trudeau",
+                    "climateId": "7025250",
+                    "tcId": "YUL"
+                },
+                "recordValue": {
+                    "pop": 49,
+                    "date": "2023-11-11",
+                    "avgMaxTemp": {
+                        "metric": 6.5999999999999996447286321199499070644378662109375,
+                        "imperial": 43.89999999999999857891452847979962825775146484375
+                    },
+                    "avgMinTemp": {
+                        "metric": -0.90000000000000002220446049250313080847263336181640625,
+                        "imperial": 30.39999999999999857891452847979962825775146484375
+                    },
+                    "avgMeanTemp": {
+                        "metric": 2.899999999999999911182158029987476766109466552734375,
+                        "imperial": 37.2000000000000028421709430404007434844970703125
+                    },
+                    "extremeMaxTemp": {
+                        "metric": 18.39999999999999857891452847979962825775146484375,
+                        "imperial": 65.099999999999994315658113919198513031005859375,
+                        "year": "2002",
+                        "interval": "1941-2012"
+                    },
+                    "extremeMinTemp": {
+                        "metric": -8.300000000000000710542735760100185871124267578125,
+                        "imperial": 17.10000000000000142108547152020037174224853515625,
+                        "year": "1973",
+                        "interval": "1941-2012"
+                    },
+                    "extremePrecip": {
+                        "metric": 25.199999999999999289457264239899814128875732421875,
+                        "imperial": 0.9899999999999999911182158029987476766109466552734375,
+                        "year": "1983",
+                        "interval": "1941-2012"
+                    },
+                    "extremeRainfall": {
+                        "metric": 23.39999999999999857891452847979962825775146484375,
+                        "imperial": 0.92000000000000003996802888650563545525074005126953125,
+                        "year": "1947",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowfall": {
+                        "metric": 5.5999999999999996447286321199499070644378662109375,
+                        "imperial": 2.20000000000000017763568394002504646778106689453125,
+                        "year": "1990",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowOnGround": {
+                        "metric": 10,
+                        "imperial": 3.939999999999999946709294817992486059665679931640625,
+                        "year": "1976",
+                        "interval": "1955-2012"
+                    }
+                },
+                "defaultDisplay": true
+            },
+            {
+                "station": {
+                    "observedAt": "A\u00e9roport int. de Montr\u00e9al-Trudeau",
+                    "climateId": "7025250",
+                    "tcId": "YUL"
+                },
+                "recordValue": {
+                    "pop": 49,
+                    "date": "2023-11-12",
+                    "avgMaxTemp": {
+                        "metric": 6.29999999999999982236431605997495353221893310546875,
+                        "imperial": 43.2999999999999971578290569595992565155029296875
+                    },
+                    "avgMinTemp": {
+                        "metric": -1.100000000000000088817841970012523233890533447265625,
+                        "imperial": 30
+                    },
+                    "avgMeanTemp": {
+                        "metric": 2.600000000000000088817841970012523233890533447265625,
+                        "imperial": 36.7000000000000028421709430404007434844970703125
+                    },
+                    "extremeMaxTemp": {
+                        "metric": 18.800000000000000710542735760100185871124267578125,
+                        "imperial": 65.7999999999999971578290569595992565155029296875,
+                        "year": "2012",
+                        "interval": "1941-2012"
+                    },
+                    "extremeMinTemp": {
+                        "metric": -9.4000000000000003552713678800500929355621337890625,
+                        "imperial": 15.0999999999999996447286321199499070644378662109375,
+                        "year": "1971",
+                        "interval": "1941-2012"
+                    },
+                    "extremePrecip": {
+                        "metric": 29.699999999999999289457264239899814128875732421875,
+                        "imperial": 1.1699999999999999289457264239899814128875732421875,
+                        "year": "1995",
+                        "interval": "1941-2012"
+                    },
+                    "extremeRainfall": {
+                        "metric": 26.5,
+                        "imperial": 1.04000000000000003552713678800500929355621337890625,
+                        "year": "1995",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowfall": {
+                        "metric": 14.699999999999999289457264239899814128875732421875,
+                        "imperial": 5.79000000000000003552713678800500929355621337890625,
+                        "year": "1968",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowOnGround": {
+                        "metric": 10,
+                        "imperial": 3.939999999999999946709294817992486059665679931640625,
+                        "year": "1976",
+                        "interval": "1955-2012"
+                    }
+                }
+            },
+            {
+                "station": {
+                    "observedAt": "A\u00e9roport int. de Montr\u00e9al-Trudeau",
+                    "climateId": "7025250",
+                    "tcId": "YUL"
+                },
+                "recordValue": {
+                    "pop": 49,
+                    "date": "2023-11-13",
+                    "avgMaxTemp": {
+                        "metric": 6.0999999999999996447286321199499070644378662109375,
+                        "imperial": 43
+                    },
+                    "avgMinTemp": {
+                        "metric": -1.3000000000000000444089209850062616169452667236328125,
+                        "imperial": 29.699999999999999289457264239899814128875732421875
+                    },
+                    "avgMeanTemp": {
+                        "metric": 2.399999999999999911182158029987476766109466552734375,
+                        "imperial": 36.2999999999999971578290569595992565155029296875
+                    },
+                    "extremeMaxTemp": {
+                        "metric": 17.800000000000000710542735760100185871124267578125,
+                        "imperial": 64,
+                        "year": "1945",
+                        "interval": "1941-2012"
+                    },
+                    "extremeMinTemp": {
+                        "metric": -10.5,
+                        "imperial": 13.0999999999999996447286321199499070644378662109375,
+                        "year": "1986",
+                        "interval": "1941-2012"
+                    },
+                    "extremePrecip": {
+                        "metric": 22.89999999999999857891452847979962825775146484375,
+                        "imperial": 0.90000000000000002220446049250313080847263336181640625,
+                        "year": "1949",
+                        "interval": "1941-2012"
+                    },
+                    "extremeRainfall": {
+                        "metric": 22.89999999999999857891452847979962825775146484375,
+                        "imperial": 0.90000000000000002220446049250313080847263336181640625,
+                        "year": "1949",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowfall": {
+                        "metric": 6.5999999999999996447286321199499070644378662109375,
+                        "imperial": 2.600000000000000088817841970012523233890533447265625,
+                        "year": "1942",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowOnGround": {
+                        "metric": 18,
+                        "imperial": 7.089999999999999857891452847979962825775146484375,
+                        "year": "1968",
+                        "interval": "1955-2012"
+                    }
+                }
+            },
+            {
+                "station": {
+                    "observedAt": "A\u00e9roport int. de Montr\u00e9al-Trudeau",
+                    "climateId": "7025250",
+                    "tcId": "YUL"
+                },
+                "recordValue": {
+                    "pop": 49,
+                    "date": "2023-11-14",
+                    "avgMaxTemp": {
+                        "metric": 5.79999999999999982236431605997495353221893310546875,
+                        "imperial": 42.39999999999999857891452847979962825775146484375
+                    },
+                    "avgMinTemp": {
+                        "metric": -1.5,
+                        "imperial": 29.300000000000000710542735760100185871124267578125
+                    },
+                    "avgMeanTemp": {
+                        "metric": 2.20000000000000017763568394002504646778106689453125,
+                        "imperial": 36
+                    },
+                    "extremeMaxTemp": {
+                        "metric": 18.60000000000000142108547152020037174224853515625,
+                        "imperial": 65.5,
+                        "year": "2011",
+                        "interval": "1941-2012"
+                    },
+                    "extremeMinTemp": {
+                        "metric": -11.699999999999999289457264239899814128875732421875,
+                        "imperial": 10.9000000000000003552713678800500929355621337890625,
+                        "year": "1971",
+                        "interval": "1941-2012"
+                    },
+                    "extremePrecip": {
+                        "metric": 27.39999999999999857891452847979962825775146484375,
+                        "imperial": 1.0800000000000000710542735760100185871124267578125,
+                        "year": "1989",
+                        "interval": "1941-2012"
+                    },
+                    "extremeRainfall": {
+                        "metric": 27.39999999999999857891452847979962825775146484375,
+                        "imperial": 1.0800000000000000710542735760100185871124267578125,
+                        "year": "1989",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowfall": {
+                        "metric": 12.4000000000000003552713678800500929355621337890625,
+                        "imperial": 4.87999999999999989341858963598497211933135986328125,
+                        "year": "1975",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowOnGround": {
+                        "metric": 15,
+                        "imperial": 5.910000000000000142108547152020037174224853515625,
+                        "year": "1968",
+                        "interval": "1955-2012"
+                    }
+                }
+            },
+            {
+                "station": {
+                    "observedAt": "A\u00e9roport int. de Montr\u00e9al-Trudeau",
+                    "climateId": "7025250",
+                    "tcId": "YUL"
+                },
+                "recordValue": {
+                    "pop": 49,
+                    "date": "2023-11-15",
+                    "avgMaxTemp": {
+                        "metric": 5.5,
+                        "imperial": 41.89999999999999857891452847979962825775146484375
+                    },
+                    "avgMinTemp": {
+                        "metric": -1.8000000000000000444089209850062616169452667236328125,
+                        "imperial": 28.800000000000000710542735760100185871124267578125
+                    },
+                    "avgMeanTemp": {
+                        "metric": 1.899999999999999911182158029987476766109466552734375,
+                        "imperial": 35.39999999999999857891452847979962825775146484375
+                    },
+                    "extremeMaxTemp": {
+                        "metric": 15.5999999999999996447286321199499070644378662109375,
+                        "imperial": 60.10000000000000142108547152020037174224853515625,
+                        "year": "1958",
+                        "interval": "1941-2012"
+                    },
+                    "extremeMinTemp": {
+                        "metric": -11.699999999999999289457264239899814128875732421875,
+                        "imperial": 10.9000000000000003552713678800500929355621337890625,
+                        "year": "1967",
+                        "interval": "1941-2012"
+                    },
+                    "extremePrecip": {
+                        "metric": 27.60000000000000142108547152020037174224853515625,
+                        "imperial": 1.0900000000000000799360577730112709105014801025390625,
+                        "year": "2008",
+                        "interval": "1941-2012"
+                    },
+                    "extremeRainfall": {
+                        "metric": 27.60000000000000142108547152020037174224853515625,
+                        "imperial": 1.0900000000000000799360577730112709105014801025390625,
+                        "year": "2008",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowfall": {
+                        "metric": 11,
+                        "imperial": 4.3300000000000000710542735760100185871124267578125,
+                        "year": "1992",
+                        "interval": "1941-2012"
+                    },
+                    "extremeSnowOnGround": {
+                        "metric": 13,
+                        "imperial": 5.12000000000000010658141036401502788066864013671875,
+                        "year": "1968",
+                        "interval": "1955-2012"
+                    }
+                }
+            }
+        ],
+        "alert_nodata_epoch": 1699565429,
+        "mtimes": {
+            "AQHI": 0,
+            "AQHI_FORECAST": 1699652792,
+            "AQHI_INFO": 0,
+            "DAILY_FORECAST": 1699660800,
+            "HOURLY_OBSERVATION": 1699678911,
+            "HOURLY_FORECAST": 1699678800,
+            "RISESET": 1699678803,
+            "RISESET_NEXT_DAY": 1699678803,
+            "YESTERDAY_OBS": 1699660800
+        }
+    }
+]
