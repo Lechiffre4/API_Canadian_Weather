@@ -5,10 +5,10 @@ const router = express.Router();
 
 /**
  * @swagger
- * /api/city/{region}/{id}:
+ * /api/city/{region}/{citycode}:
  *   get:
- *     summary: Get city information by region and ID.
- *     description: Return the name of the city based on the region and ID.
+ *     summary: Get city information by region and city code.
+ *     description: Return the name of the city based on the region and city code.
  *     parameters:
  *       - name: region
  *         description: The 2-letter abbreviation of the region.
@@ -16,7 +16,7 @@ const router = express.Router();
  *         required: true
  *         type: string
  *       - name: id
- *         description: The ID of the city.
+ *         description: The city code of the city.
  *         in: path
  *         required: true
  *         type: string
@@ -39,7 +39,7 @@ const router = express.Router();
  *               cityNotFound:
  *                 value:
  *                   {
- *                     "error": "ID not found in the specified region"
+ *                     "error": "City not found in the specified region"
  *                   }
  *               regionNotFound:
  *                 value:
