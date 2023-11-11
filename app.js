@@ -1,5 +1,7 @@
 const express = require('express');
-const cors = require('cors')
+const cors = require('cors');
+const swaggerJsDoc = require('swagger-jsdoc');
+const swaggerUI = require('swagger-ui-express');
 
 const { notFound, errorHandler } = require('./middlewares');
 
@@ -9,8 +11,30 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 
-/* Default route */
+/* Swagger UI Setup */
+const swaggerOptions = {
+  swaggerDefinition: {
+    info: {
+      title: "Canadian Weather API",
+      version: '1.0.0',
+    },
+  },
+  apis: ["app.js", "./routes/cities.js", "./routes/city.js", "./routes/currentweather.js", "./routes/raw_data.js"],
+};
+const swaggerDocs = swaggerJsDoc(swaggerOptions);
+app.use('/api-docs', swaggerUI.serve, swaggerUI.setup(swaggerDocs));
 
+/* Default route */
+/**
+ * @swagger
+ * /api/:
+ *   get:
+ *     description: Welcome to the api
+ *     responses:
+ *       200:
+ *         description: Success
+ * 
+ */
 app.get("/", async (req, res) => {
   return res.status(200).json({
     title: "Bienvenue",

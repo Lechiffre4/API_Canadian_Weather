@@ -3,6 +3,58 @@ const cities = require("../data/citycodes.json");
 
 const router = express.Router();
 
+/**
+ * @swagger
+ * /api/city/{region}/{id}:
+ *   get:
+ *     summary: Get city information by region and ID.
+ *     description: Return the name of the city based on the region and ID.
+ *     parameters:
+ *       - name: region
+ *         description: The 2-letter abbreviation of the region.
+ *         in: path
+ *         required: true
+ *         type: string
+ *       - name: id
+ *         description: The ID of the city.
+ *         in: path
+ *         required: true
+ *         type: string
+ *     responses:
+ *       200:
+ *         description: City information retrieved successfully.
+ *         content:
+ *           application/json:
+ *             example:
+ *               {
+ *                 "region": "AB",
+ *                 "id": "17",
+ *                 "cityName": "Crowsnest"
+ *               }
+ *       404:
+ *         description: City or Region not found.
+ *         content:
+ *           application/json:
+ *             examples:
+ *               cityNotFound:
+ *                 value:
+ *                   {
+ *                     "error": "ID not found in the specified region"
+ *                   }
+ *               regionNotFound:
+ *                 value:
+ *                   {
+ *                     "error": "Region not found"
+ *                   }
+ *       500:
+ *         description: Internal Server Error.
+ *         content:
+ *           application/json:
+ *             example:
+ *               {
+ *                 "error": "Internal Server Error"
+ *               }
+ */
 router.get("/:region/:id", async (req, res) => {
     const region = req.params["region"].toUpperCase();
     const id = req.params["id"];
